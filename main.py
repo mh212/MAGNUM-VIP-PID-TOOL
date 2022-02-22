@@ -17,7 +17,7 @@ for i in range(1,37):
   VIP_ins.append(input)
 
 
-
+############# THIS WILL CREATE QUERIES TO BE USED BY THE MAIN CODE ###################
 def create_queries():
     global tally_list
     tally_list = []
